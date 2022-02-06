@@ -1,0 +1,8 @@
+
+
+# Qurulum
+
+# Heroku
+#abdullah626
+
+

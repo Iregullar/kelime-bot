@@ -1,0 +1,22 @@
+
+{
+  "name": "Anlatbakimbot",
+  "description": "kelime oyunu",
+  "keywords": [
+    "telegram",
+    "best",
+    "group",
+    "manager",
+    "3"
+  ],
+  "repository": "https://github.com/abdullah626/kelimebotu",
+  
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
